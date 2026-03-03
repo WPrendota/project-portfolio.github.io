@@ -6,4 +6,4 @@
 
 - [End-to-end medical data pipeline (Python, pySpark, postgreSQL, Apache Airflow, Docker, Streamlit)](https://github.com/WPrendota/End-to-end-medical-data-pipeline)
 
-Demo available upon request.
+A demo available upon request.
