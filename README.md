@@ -5,7 +5,3 @@
 - [Manufacturing Operations Insights Power BI Dashboard](https://github.com/WPrendota/Manufacturing_Operations_Insights_Power_BI_Dashboard)
 
 - [End-to-end medical data pipeline (Python, pySpark, postgreSQL, Apache Airflow, Docker, Power BI)](https://github.com/WPrendota/End-to-end-medical-data-pipeline)
-
-A demo available upon request.
-
-Please feel free to contact me.
